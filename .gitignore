@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Frontend build output (Vue + Vite)
+frontend/dist/
+frontend/.vite/
+
+# Backend build output (Express + TypeScript)
+backend/dist/
+backend/build/
+*.tsbuildinfo
+
+# Test coverage reports
+coverage/
+
+# Logs
+*.log
+logs/
+
+# Cache directories
+.cache/
+
+# SQLite databases (if used)
+*.sqlite
+*.sqlite3
+*.db
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
