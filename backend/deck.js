@@ -116,7 +116,7 @@ export const deck = [
     "album": "Reign in Blood",
     "band": "Slayer",
     "year": 1986,
-    "cover": "https://www.metal-archives.com/images/4/8/9/489.jpg",
+    "cover": "https://www.metal-archives.com/images/2/1/2/212.jpg",
     "attributes": { "year": 1986, "heaviness": 98, "complexity": 65, "influence": 97, "duration": 29.0 }
   },
   {
